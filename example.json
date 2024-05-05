@@ -1,1 +1,12 @@
-{"name":"OPOS","symbol":"OPOS","image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png", "description":"Minted by Solana","image":null,"attributes":[{"trait_type":"Power","value":"100"}]}
+{
+  "name":"OPOS",
+  "symbol":"OPOS",
+  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+  "description":"Minted by Solana",
+  "attributes":[
+    {
+      "trait_type":"Power",
+      "value":"100"
+    }
+  ]
+}
